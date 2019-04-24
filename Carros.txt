@@ -2,4 +2,6 @@ Honda Fit,
 Corolla,
 Fluence,
 Duster,
-Hb20
+Hb20,
+Nissan Tiida,
+Ford Focus
