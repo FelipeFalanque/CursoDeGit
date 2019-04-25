@@ -5,4 +5,5 @@ Duster,
 Hb20,
 Nissan Tiida,
 Ford Focus,
-Cruze hath
+Vectra GT-X
+Cruze hath,
