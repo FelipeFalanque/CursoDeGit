@@ -4,4 +4,5 @@ Fluence,
 Duster,
 Hb20,
 Nissan Tiida,
-Ford Focus
+Ford Focus,
+Vectra GT-X
