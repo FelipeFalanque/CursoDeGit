@@ -1,0 +1,9 @@
+SELECT COUNT(CustomerID), Country
+FROM Customers
+GROUP BY Country HAVING COUNT(CustomerID) > 5;
+
+-- MESMO RESULTADO DUAS FORMAS DE FAZER
+
+SELECT * FROM (SELECT COUNT(CustomerID) AS Qtd, Country
+FROM Customers
+GROUP BY Country) t WHERE Qtd > 5;
